@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3303c52-56ea-4794-9780-494ce6ed7020" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-version11/src/practice/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-version11/src/practice/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,18 +16,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-version11/src/practice/Sum.java">
+        <entry file="file://$PROJECT_DIR$/java-version11/src/practice/Robot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -49,6 +55,8 @@
         <option value="$PROJECT_DIR$/java-version11/src/practice/Variable.java" />
         <option value="$PROJECT_DIR$/java-version11/src/practice/ListPractice.java" />
         <option value="$PROJECT_DIR$/java-version11/src/practice/Sum.java" />
+        <option value="$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java" />
+        <option value="$PROJECT_DIR$/java-version11/src/practice/Robot.java" />
       </list>
     </option>
   </component>
@@ -89,7 +97,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560850655788" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560853094935" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -105,9 +113,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sum">
+  <component name="RunManager" selected="Application.RobotFactory">
     <configuration name="ListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.ListPractice" />
+      <module name="java-version11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobotFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.RobotFactory" />
       <module name="java-version11" />
       <extension name="coverage">
         <pattern>
@@ -147,6 +168,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RobotFactory" />
         <item itemvalue="Application.Sum" />
         <item itemvalue="Application.ListPractice" />
         <item itemvalue="Application.Variable" />
@@ -253,8 +275,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-version11/src/practice/Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#161#162#0" expanded="true" />
             <element signature="e#181#182#0" expanded="true" />
@@ -262,6 +284,24 @@
             <element signature="e#249#250#0" expanded="true" />
             <element signature="e#350#351#0" expanded="true" />
             <element signature="e#389#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-version11/src/practice/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
           </folding>
         </state>
       </provider>
