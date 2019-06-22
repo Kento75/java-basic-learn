@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3303c52-56ea-4794-9780-494ce6ed7020" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-version11/src/practice/EqualsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-version11/src/practice/RobotWithDrill.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +15,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-version11/src/practice/EqualsPractice.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-version11/src/practice/RobotWithDrill.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -41,11 +66,12 @@
         <option value="$PROJECT_DIR$/java-version11/src/practice/Variable.java" />
         <option value="$PROJECT_DIR$/java-version11/src/practice/ListPractice.java" />
         <option value="$PROJECT_DIR$/java-version11/src/practice/Sum.java" />
-        <option value="$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java" />
         <option value="$PROJECT_DIR$/java-version11/src/practice/Robot.java" />
         <option value="$PROJECT_DIR$/java-version11/src/practice/ForPractice.java" />
         <option value="$PROJECT_DIR$/java-version11/src/practice/IfPractice.java" />
         <option value="$PROJECT_DIR$/java-version11/src/practice/EqualsPractice.java" />
+        <option value="$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java" />
+        <option value="$PROJECT_DIR$/java-version11/src/practice/RobotWithDrill.java" />
       </list>
     </option>
   </component>
@@ -59,7 +85,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,11 +108,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561104284507" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561174015474" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -102,7 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EqualsPractice">
+  <component name="RunManager" selected="Application.RobotFactory">
     <configuration name="EqualsPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.EqualsPractice" />
       <module name="java-version11" />
@@ -170,10 +196,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RobotFactory" />
         <item itemvalue="Application.EqualsPractice" />
         <item itemvalue="Application.IfPractice" />
         <item itemvalue="Application.ForPractice" />
-        <item itemvalue="Application.RobotFactory" />
         <item itemvalue="Application.Sum" />
       </list>
     </recent_temporary>
@@ -195,7 +221,7 @@
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19062833" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19488817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -298,13 +324,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-version11/src/practice/ForPractice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -322,7 +341,27 @@
     <entry file="file://$PROJECT_DIR$/java-version11/src/practice/EqualsPractice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-version11/src/practice/RobotWithDrill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
