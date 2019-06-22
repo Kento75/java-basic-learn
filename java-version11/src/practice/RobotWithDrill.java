@@ -12,4 +12,9 @@ public class RobotWithDrill extends Robot {
     public void dig() {
         System.out.println(name + "は穴を掘った!");
     }
+
+    // オーバーライド
+    String sayName() {
+        return "My name is " + name;
+    }
 }
