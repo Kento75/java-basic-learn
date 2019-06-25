@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3303c52-56ea-4794-9780-494ce6ed7020" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-version11/src/practice/SubStringPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-version11/src/practice/CrashException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-version11/src/practice/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-version11/src/practice/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,49 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-version11/src/practice/EqualsPractice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-version11/src/practice/RobotWithDrill.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-version11/src/practice/SubStringPractice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#158#159#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="204">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-version11/src/practice/Robot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -79,17 +52,18 @@
         <option value="$PROJECT_DIR$/java-version11/src/practice/Variable.java" />
         <option value="$PROJECT_DIR$/java-version11/src/practice/ListPractice.java" />
         <option value="$PROJECT_DIR$/java-version11/src/practice/Sum.java" />
-        <option value="$PROJECT_DIR$/java-version11/src/practice/Robot.java" />
         <option value="$PROJECT_DIR$/java-version11/src/practice/ForPractice.java" />
         <option value="$PROJECT_DIR$/java-version11/src/practice/IfPractice.java" />
         <option value="$PROJECT_DIR$/java-version11/src/practice/EqualsPractice.java" />
-        <option value="$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java" />
         <option value="$PROJECT_DIR$/java-version11/src/practice/RobotWithDrill.java" />
         <option value="$PROJECT_DIR$/java-version11/src/practice/SubStringPractice.java" />
+        <option value="$PROJECT_DIR$/java-version11/src/practice/CrashException.java" />
+        <option value="$PROJECT_DIR$/java-version11/src/practice/Robot.java" />
+        <option value="$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -126,7 +100,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561431802251" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561442028243" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -142,7 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SubStringPractice">
+  <component name="RunManager" selected="Application.RobotFactory">
     <configuration name="EqualsPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.EqualsPractice" />
       <module name="java-version11" />
@@ -210,8 +184,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubStringPractice" />
         <item itemvalue="Application.RobotFactory" />
+        <item itemvalue="Application.SubStringPractice" />
         <item itemvalue="Application.EqualsPractice" />
         <item itemvalue="Application.IfPractice" />
         <item itemvalue="Application.ForPractice" />
@@ -232,9 +206,37 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19914803" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32970297" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.34507772" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19914803" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
@@ -249,7 +251,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32970297" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34507772" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -261,7 +263,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/java-basic-learn.iml">
@@ -331,13 +333,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-version11/src/practice/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-version11/src/practice/ForPractice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -359,10 +354,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java">
+    <entry file="file://$PROJECT_DIR$/java-version11/src/practice/SubStringPractice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -381,13 +380,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-version11/src/practice/SubStringPractice.java">
+    <entry file="file://$PROJECT_DIR$/java-version11/src/practice/CrashException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
           <folding>
-            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-version11/src/practice/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-version11/src/practice/RobotFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
         </state>
       </provider>
     </entry>
